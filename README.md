@@ -6,19 +6,25 @@ This box converts the circular motion of a motor in angular motion, which is the
 
 ## Parts required to assemble
 
-- Manufacture the parts included in the PRINT_ME folder.
+- Manufacture the parts included in the PRINT_ME folder. All parts are one ofs with the exception of Ball Bearing to Ball Bearing Connector, which is a 2 of, and the PCB Spacer, which is a 4 of
 
-> **NOTE:** The .SLDPRT files can be opened in a cad program of your choice and edited before being exported. Certain openings may be adjusted by 0.3-0.5 milimeters to account to tolerances related to 3d printing, if you are using a more or less accurate medium you will likely want to adjust these values. You may also resize the .stl files in your slicer if you are using a 3D printer.
+> **NOTE:** The .SLDPRT files can be opened in a cad program of your choice and edited before being exported. Certain openings may be adjusted by 0.3-0.5 milimeters to account to tolerances related to 3d printing, if you are using a more or less accurate medium you will likely want to adjust these values. You may also resize the .stl files in your slicer if you are using a 3D printer. the PRINT_ME_STLs folder will have the stl files if you do not want to go through and export each part from your CAD program of choice.
 
 - X4 *[M3 10mm Coupling Nuts](https://www.amazon.com/dp/B0FY366GRH?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)*
 
-- X4 M3x40mm Screws
-  
-- X2 M3x20mm Screws
+- X8 M3x35mm Screws
 
-- X7 M3x30mm Screws
+> **NOTE:** Be sure that your 35mm screws are compatible with the coupling nuts.
 
-- X9 M3 Bolts
+- X2 M3x10mm Screws
+
+- X2 M3x8mm Screws
+
+- X3 M3x30mm Screws
+
+- X4 M3x16mm Screws
+
+- X11 M3 Bolts
 
 - *[This Motor Controller](placeholder)*
 
